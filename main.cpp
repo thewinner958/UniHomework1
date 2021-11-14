@@ -27,7 +27,7 @@ string intToRoman(int n) {
 }
 
 int main() {
-    /*// Task 1
+    // Task 1
     int note1, octave1, note2, octave2;
     cin >> note1 >> octave1 >> note2 >> octave2;
     int intervals = interval(note1, octave1) + interval(note2, octave2);
@@ -68,7 +68,7 @@ int main() {
         cout << intToRoman(num) << endl;
     } else {
         cout << "Number over 1000\n";
-    }*/
+    }
 
     // Task 4
     int n;
